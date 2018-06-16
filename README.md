@@ -1,5 +1,6 @@
 # kubepnp
 
-First check in
+## Docker 
 
-Second check in
+Initial Docker file
+
